@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">D1041161004_tugasToastActiv</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="welcome">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="hello">Hello</string>
+    <string name="buttoninc">Button</string>
+    <string name="buttondec">Button</string>
+    <string name="num">TextView</string>
+    <string name="number">04</string>
+    <string name="btndec">-</string>
+    <string name="btninc">+</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="nama">Masukkan Nama</string>
+    <string name="namaa" />
+</resources>
